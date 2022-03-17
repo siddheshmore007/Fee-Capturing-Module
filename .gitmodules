@@ -1,0 +1,6 @@
+[submodule "fcm-Frontend"]
+	path = fcm-Frontend
+	url = https://github.com/siddheshmore007/Frontend-FCM.git
+[submodule "fcm-Backend"]
+	path = fcm-Backend
+	url = https://github.com/siddheshmore007/Backend-FCM.git
