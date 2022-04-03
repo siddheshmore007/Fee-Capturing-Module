@@ -4,3 +4,6 @@
 [submodule "fcm-Backend"]
 	path = fcm-Backend
 	url = https://github.com/siddheshmore007/Backend-FCM.git
+[submodule "fcm-Cron"]
+	path = fcm-Cron
+	url = https://github.com/siddheshmore007/Cron-FCM.git
